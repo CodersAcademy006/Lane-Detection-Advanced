@@ -1,5 +1,5 @@
-## Lane Finding Documentation
-#### By: Kyle Stewart-Frantz
+## Lane Detection Documentation
+#### By: Srijan Upadhyay
 
 ****
 
